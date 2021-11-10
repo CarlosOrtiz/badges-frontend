@@ -11,6 +11,7 @@
   height: 80px;
   background: #1B1B25;
   display: flex;
+  font-family: 'Lato', 'Helvetica Neue', sans-serif;
   justify-content: center;
 }
 
@@ -29,7 +30,6 @@
   padding: 0.5rem 0;
   background: #F4F4F7;
 }
-
 
 .Badge__avatar {
   border-radius: 50%;

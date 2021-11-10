@@ -15,7 +15,7 @@ const Badge = (props) => {
 
       <div className="Badge__section-name">
         <img className="Badge__avatar" src={props.photo} alt='Avatar' />
-        <Title code>{props.name} <br /> {props.lastName}</Title>
+        <Title>{props.name} <br /> {props.lastName}</Title>
       </div>
 
       <div className="Badge__section-info">
